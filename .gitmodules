@@ -1,0 +1,6 @@
+[submodule "plugin-ai-annotator-frontent"]
+	path = plugin-ai-annotator-frontent
+	url = https://github.com/Copper3D-brids/plugin-ai-annotator-frontend.git
+[submodule "plugin-ai-annotator-backend"]
+	path = plugin-ai-annotator-backend
+	url = https://github.com/Copper3D-brids/plugin-ai-annotator-backend.git
