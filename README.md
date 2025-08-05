@@ -14,9 +14,10 @@ As one of the most fundamental tasks in computer-assisted clinical decision supp
 1. Start by launching the Medical Image Annotation plugin.
 <img width="1263" height="892" alt="Screenshot from 2025-08-05 12-47-17" src="https://github.com/user-attachments/assets/d5e31e26-c0f2-413e-8282-5c0c69c12539" />
 2. Click a point as a prompt within the region of intersted. 
-<img width="1260" height="922" alt="Screenshot from 2025-08-05 13-54-38" src="https://github.com/user-attachments/assets/d1adfabf-6160-4298-b10b-90c67877f91d" />
+<img width="1259" height="915" alt="Screenshot from 2025-08-05 14-15-09" src="https://github.com/user-attachments/assets/c8f409e8-d8d0-41a3-a4f7-34648e7453cb" />
 3. The mask will show in the medical image after around 30 seconds without GPU or 5 seconds with GPU.
-<img width="1259" height="915" alt="Screenshot from 2025-08-05 13-55-34" src="https://github.com/user-attachments/assets/6141d3bd-e18d-4b46-aacd-b217672803ef" />
+<img width="1259" height="915" alt="Screenshot from 2025-08-05 14-16-14" src="https://github.com/user-attachments/assets/f456a4d0-25cf-4c00-91c9-5dc0c9ac63c6" />
+
 
 
 
